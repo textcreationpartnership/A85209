@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutch-mens pedigree or A relation, shewing how they were first bred, and descended from a horse-turd, which was enclosed in a butter-box. Together with a most exact descripton of that great, huge, large, horrible, terrible, hideous, fearful, ...  prodigious, preposterous horse that shit the same turd; who had two faces on one head, the one somwhat resembling the face of a man, the other the face of a horse, the rest of his body was like the body of an horse, saving that on his shoulders he had two great fish finns like the finns of whales, but far more large: he lived somtime on land, but most in water; his dyet was fish, roots, ...  A very dreadful accident befel him, the fear hereof set him into such a fit of shiting, that he died thereof: ...  Also how the Germans following the directions of a conjurer, made a very great box, and smeared the in-side with butter, and how it was filled with the dung which the said monstrous horse shit: out of which dung within nine days space sprung forth men, women, and children; the off-spring whereof are yet alive to this day, and now commonly known by the name of Dutchmen; as this following relation will plainly manifest.</title>
+            <author>D. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85209</idno>
+            <idno type="STC">Wing F6</idno>
+            <idno type="STC">Thomason 669.f.16[81]</idno>
+            <idno type="STC">ESTC R211615</idno>
+            <idno type="EEBO-CITATION">99870326</idno>
+            <idno type="PROQUEST">99870326</idno>
+            <idno type="VID">163234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutch-mens pedigree or A relation, shewing how they were first bred, and descended from a horse-turd, which was enclosed in a butter-box. Together with a most exact descripton of that great, huge, large, horrible, terrible, hideous, fearful, ...  prodigious, preposterous horse that shit the same turd; who had two faces on one head, the one somwhat resembling the face of a man, the other the face of a horse, the rest of his body was like the body of an horse, saving that on his shoulders he had two great fish finns like the finns of whales, but far more large: he lived somtime on land, but most in water; his dyet was fish, roots, ...  A very dreadful accident befel him, the fear hereof set him into such a fit of shiting, that he died thereof: ...  Also how the Germans following the directions of a conjurer, made a very great box, and smeared the in-side with butter, and how it was filled with the dung which the said monstrous horse shit: out of which dung within nine days space sprung forth men, women, and children; the off-spring whereof are yet alive to this day, and now commonly known by the name of Dutchmen; as this following relation will plainly manifest.</title>
+                  <author>D. F.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year 1653. And are to be sold at St. Michaels Church door in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: D.F.</note>
+                  <note>The illustration is of the horse and the great butter box; looking over the edge of the butter box are effigies of Trump and With.</note>
+                  <note>Annotation on Thomason copy: "8th January 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653 --  Humor --  Early works to 1800.</term>
+               <term>With, Witte Corneliszoon de, 1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163234:1" rendition="simple:additions"/>
+            <head>The Dutch-mens PEDIGREE, OR A Relation, Shewing how they were firſt Bred, and Deſcended from a <hi>HORSE-T<g ref="char:V">Ʋ</g>RD,</hi> which was encloſed in a BUTTER-BOX.</head>
+            <head type="sub">Together with a moſt exact Deſcription of that great, huge, large, horrible, terrible, hideous, fearful, filthy, ugly, monſtrous, miſhapen, prodigious, prepoſterous Horſe that ſhit the ſame <hi>Turd;</hi> who had two Faces on one head, the one ſomwhat reſembling the face of a man, the other the face of a horſe, the reſt of his body was like the body of an Horſe, ſaving that on his ſhoulders he had two great Fiſh finns, like the finns of Whales, but far more large: He lived ſomtime on land, but moſt in water; His Dyet was Fiſh, Roots, Herbs, &amp;c. A very dreadful Accident befel him, the fear whereof ſet him into ſuch a fit of ſhiting, that he died thereof: His body was immediately carried with multitudes of Divels into Hell, where it remains to this day.</head>
+            <head type="sub">Alſo how the <hi>Germans</hi> following the directions of a Conjurer, made a very great Box, and ſmeared the In-ſide with Butter, and how it was filled with the dung which the ſaid monſtrous horſe ſhit; Out of which dung within nine days ſpace ſprung forth men, women, and children; the Off-ſpring whereof are yet alive to this day, and now commonly known by the name of <hi>DUTCH MEN;</hi> As this following Relation will plainly manifeſt.</head>
+            <p>IF I ſhould only treat upon the ſhape of a monſtrous Creature, my Relation would be accounted ſtrange, and only ſtrange; and ſo paſs by as a common ſtrange thing: But ſeeing Nature thought it not enough to create a Monſter, and ſo make an end; but alſo with it, or by it, to produce monſtrous effects; I think this not a thing worthy to be looked on ſlightly, or to be paſs'd by with ſaying only, <hi>It is very ſtrange!</hi> For never did any pro<g ref="char:EOLhyphen"/>digious ſhape terminate in ſuch won<g ref="char:EOLhyphen"/>derful and miraculous events as this did.</p>
+            <figure>
+               <head>Van Trumy: De Witte. The great Butter Box.</head>
+            </figure>
+            <p>Now becauſe I will go methodically along with this Hiſtory, I will firſt de<g ref="char:EOLhyphen"/>ſcribe unto you the faſhion of this Mon<g ref="char:EOLhyphen"/>ſter, and then the courſe of his life, and afterwards the events that hapned upon his latter end and death.</p>
+            <p>The length of his Body was of a ve<g ref="char:EOLhyphen"/>ry large ſize; for from head to tayl was ſeven hundred fifty four yards, and eve<g ref="char:EOLhyphen"/>ry member about him proportionable to the bigneſs of his Body; He had a double head, or to ſpeak more properly, a ſingle head with two faces; one like a Mans, the other like an Horſes face; his man-iſh face was of a dark red fleſhy colour, like raw tann'd Leather, he had two great gray eyes, and a cou<g ref="char:EOLhyphen"/>ple of long Whiskers or Muſtachoes, that reach'd up to his very ears, which ſtood ſtradling from his head as if they fear'd to touch it; his chin was bald, and without hair; under his chin he had a wallup of fat hung half way down his throat; he had a wide mouth, and two tongues in it, with either of which he could ſpeak, though he was much impedited with the wallup of fat that hung under his chin, which made his words ſound as if he ſpoke in the throat: he had two rows of teeth, with which he chewed the food he fed his unſatiable and ravenous paunch; his other face was ſhaped altogether like an Horſe's, and the reſt of his body like the body of an horſe, only to his ſhoulders were faſtned two great Fiſh-finns, which ſerved him as Oars to tranſport his body from place to place when he journeyed by water. For manner of his life, he delight<g ref="char:EOLhyphen"/>ed moſt in water, ſwimming from Sea to Sea, and in ſhew, held amity with all the Fiſh in the Ocean; but his friendſhip laſted no longer then till he ſaw a fit opportu<g ref="char:EOLhyphen"/>nity to make a diſagreement more advantagious unto him then his feigned familiarity was; and then he would fall to devouring the ſmaller ſort of fiſhes by whole Cart-loads, and preying on the greater where ever he found them; inſomuch that all fiſh (either through a natural inſtinct, or accuſtomed to his ravenous practiſe) dreaded him as their greateſt terror, and ſhunned him as much as they would death it ſelf. On land he was not ſo active as in the water; for the weight of his fat and corpulent body, was a burden too great for him to bear without ſweating; nor could he ſo eaſily rub away his ſweat on land, as he could waſh it away in water. His Land-dyet was altogether on Roots, Herbs, &amp;c. and that not in ſmall quantity neither, for though an Acre of ground were burd'ned with never ſo plentiful a crop, yet would this Monſter make but one ſingle mouthful of it; ſo that where-ever he came, he ruin'd all but himſelf, by eating the victuals out of their mouths: And thus behaved he himſelf, now ſpending his time on land, and then in water. At laſt he hapned in his travels by Sea, to light upon the coaſt of <hi>Germany,</hi> which having ſomwhat more ſhallow waters then other Seas, though the Tide were at higheſt, his feet touch'd the ground, when his back was above the water; and the Tide re<g ref="char:EOLhyphen"/>tyring into <hi>Neptune</hi>'s Treaſury, left this monſtrous Monſter wallowing in the midſt of this muddy Sea; who ſeeing himſelf ſo diſ-reſpected by thoſe ſurly and clowniſh waters, began to ſwell with anger, and look big with ſcornful indignation, muttering to himſelf theſe and ſuch like ſcornful and threatning expreſſions.</p>
+            <p>
+               <hi>What</hi> (ſaid he) <hi>have I hitherto been Commander and Ruler of all the Seas that ere I came in, and muſt I now be ſlighted of theſe petty and unſavory waters? Have not all the Fiſhes, nay the Whale himſelf when he hath ſeen me approach, made way for my Mightineſs to paſs freely? Hath not the greateſt Ocean in the world been proud of its burden when it hath born me? How ready hath its waters been to open to the right and left when I have approched? and how nimble were they to cloſe again after I had once paſſed by? How hath its tops danced to delight me, and the waves iuſtled one another to make me paſtime? How ſmooth hath its face been, when I have come to the top to Sun my ſelf, and how rugged when I have gone down to take a Nap, the winds and it conſpiring together to make melody to lull me to ſleep? What ſhall I ſay? How ready and willing have other Seas been to wait upon me? and how negligent and backward are theſe dropping ditches to perform the duty they ow me? But they ſhall buy it dearly; for I ſwear and now revenge: and therefore let them come when they will, my fury ſhall deſtroy them, and my ſwallow ſhall conſume and devour them all.</hi>
+            </p>
+            <p>This Monſter being in this pelting rage, was very un<g ref="char:EOLhyphen"/>able to brook ſuch unkind curteſies, and hardly knew he how to ſpend his time, unleſs he firſt had ſpent his revenge upon theſe unmannerly waters; one while he turns to the Eaſt, then again to the Weſt, by and by to the North, and anon to the South; every way watching the coming of the Seas: who after they had taken their leave of <hi>Neptune,</hi> retire again to feed the ſoaking ſands with the very ſubſtance of their own humid and liquid body.</p>
+            <p>This Beaſt, or Monſter, or rather monſtrous Beaſt, perceiving the waters draw nigh, couches cloſe to the quaking Quagmires, wathing its prey, as Spaniels do their game, behind a bank of ſand that formerly the wanton waters (ſporting themſelves therewith) had dri<g ref="char:EOLhyphen"/>ven before them, planting it there as a fortified Caſtle, to exerciſe themſelves; in imitating the Beſieging Scaling, and Conquering a peaceful enemy, againſt they had oc<g ref="char:EOLhyphen"/>caſion to deal with a warlike one: And when the Seas according to their frequent cuſtom, began in a familiar way to daily with this ſandy Bulwark, now approching to the skirts of its Frontier, and ſtraight withdrawing its ſelf, as if the Adverſary had given it the repulſe, and then again with freſh courage aſtaulting the Defendant, and getting ground, as if it meant with continual Alarums to weary out the poor beſieged; out ſtars this fearful Mon<g ref="char:EOLhyphen"/>ſter, aſſaulting theſe innocent waters in ſuch an outragious manner, as if it had intended to devour (not only that poor Sea, but alſo all the Oceans in the whole world; and ſetting both his monſtrous mouths to theſe weak and feeble waters, one would have thought he had drunk a health to the Divel, and that Sathan would not pledge him, unleſs he drunk up his cup; drinking till he ſtares, and ſtaring while he drinks, never giving over ſo long as he could ſee one drop follow another: purſuing with a revengeful fury ſo far as he durſt for fear of the Brittiſh Seas, which he perceived began to muſter up their For<g ref="char:EOLhyphen"/>ces to oppoſe his Tyranical doings; and very hard it was for him to eſcape them; for he having devoured the waters which ſhould have carryed him nimbly away, was compell'd to make a ſluggiſh retreat on foot; which was not ſo quick, but that the Brittiſh Scas were ready to overtake him, ere he could get to faſt and firm ground; and when he turned about, and perceiv'd them neer his heels, a ſudden fear ſurpriz'd him, and ſet him into ſuch a violent purging condition, that he never left ſhiting till he purged life and all out of his body; and no ſoeuer was he dead, but a moſt fearful tempeſt aroſe: the winds blew, and the waves flew, the thunder cra<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and the lightning flaſht, whole ſtreams of <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> came pouring down, and <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, a ge<g ref="char:EOLhyphen"/>neral darkneſs poſſeſt the whole Hemiſphere, a ſudden crack was given, as though the Axle-tree of the earth had ſnapt in twain; the Divels themſelves came roaring about his carkaſs, and carryed it away ſo ſoon as the breath was out of his body.</p>
+            <p>And when this hideous Tempeſt ceaſed, the <hi>Germans</hi> perceiv'd the waters had left the borders of their Coun<g ref="char:EOLhyphen"/>try, which they much admired at, and therefore enqui<g ref="char:EOLhyphen"/>red of all the wiſe men in their land, to know if they could tell them the cauſe of ſo wonderful and ſtrange an accident; Among the reſt, they at laſt found out an old wrinckled fac'd Conjurer, one of the Divel's chiefeſt Councellors, who had more skill in prophecying of things to come, then any in all <hi>Germany</hi> beſides, him they in<g ref="char:EOLhyphen"/>treated to tell them (according to his Art) what ſucceſs would follow upon ſuch ſeldom ſeen accidents: But he deſired them to give him a moneths time to pauſe upon it, and then he would give them his judgement in wri<g ref="char:EOLhyphen"/>ting, upon condition they would preſently cauſe a great huge Box to be made, and ſmear all the in-ſide with Butter, and carry it to the midſt of the drayned Seas, and fill it with a ſort of dung which he told them they ſhould find there, and ſtop it cloſe up, and ſo leave it. They ſtraightway conſented, and forthwith cauſed a Box to be made, according to his directions; and carry<g ref="char:EOLhyphen"/>ed it towards the place that he appointed, but they had far ſooner the ſent of the place in their noſtrils then the ſight thereof in their eyes; for above twenty miles about there was ſuch a filthy noyſome ſtink, that many of the men that help'd to carry the ſaid Box thither, were choaked with it, and others ſate down to ſtop their noſe, but the reſt ran home again, and left the Box be<g ref="char:EOLhyphen"/>hinde them. But the Divels in the night time coming thither, and finding the work undone, were very angry with the Conjurer, miſtruſting that he had been very negligent of Belzebubs buſineſs, for Belzebub had gi<g ref="char:EOLhyphen"/>ven him charge, that that dung ſhould be carefully cloſed up in ſuch a Box as was mentioned before; thereupon they repair towards the Conjurers houſe, and by the way they found the foreſaid great Box, and many ſhovels ly<g ref="char:EOLhyphen"/>ing by it, which the men had brought along with them to take up the dung with; and as they looked farther about them, they found the dead bodies of thoſe men that were killed with the ſtink, and thereby perceived the Conjurer was not in fault, but that mortals were too weak inſtruments to go through ſuch helliſh work: therefore they took up the Box and ſhovels themſelves, and carryed it away to the place where the dung was, and filled the Box with it, and ſo cloſed it up, and let it ſtand, leaving only the greateſt Divel in all hell to ſit brooding upon it, for a ſmall one could not cover it: But the Divel had not brooded paſſing nine days ſpace, ere living creatures were heard to make a great rumbling in the Box; and at the laſt breaking out of it, they were diſcerned to have the ſhape and voice, and nothing but the ſhape and voice, of men, women, and children. Then fell they to work with the ſhell of that Egg out of which <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hatch'd (I mean the Box) breaking it to pieces; and the Divels furniſhing them with Tools, they made a Ship of it, and ſet forth to Sea with it, to catch fiſh, to feed their gormandizing guts withal; and when they came home again, they found their drayned Seas, or their Sea-land, all overgrown with weeds, and that they fed upon, till ſuch time as they went to Sea again. But before this time the moneth was come about that the Conjurer ſhould deliver his judgement in writing to the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> which was to this effect.</p>
+            <p>Know ye (O <hi>Germans)</hi> that Belze<g ref="char:EOLhyphen"/>bub the great King, ſole Commander and Governour of all the Dominions in Hell and Purgatory, thought it not ſuta<g ref="char:EOLhyphen"/>ble to his Port and Greatneſs, to want one Lordſhip, and Mannor-houſe at leaſt, on earth, that he might appropriate peculiar to his own Majeſties uſe; and therefore cauſed he one of the moſt in<g ref="char:EOLhyphen"/>fernal Divels to raviſh a Mermaid, and upon her to beget a very large and mon<g ref="char:EOLhyphen"/>ſtrous Horſe, with two heads, &amp;c. the ſame Horſe that hath been ſeen by ma<g ref="char:EOLhyphen"/>ny of our Countrymen within theſe few days, and therefore I need not deſcribe the ſhape of it to you. This Horſe by my king Belzebubs inſtrument drained theſe your Seas; and (what is a miraculous thing) hath drunk up all the waters in them, and now left it dry ground; but partly becauſe no other Seas ſhould re<g ref="char:EOLhyphen"/>ploniſh them, and partly becauſe Belze<g ref="char:EOLhyphen"/>bub would from thence raiſe up a ſtock of ſervants, not only to manure his lord<g ref="char:EOLhyphen"/>ſhip, but alſo to do him other offices that his Majeſty from time to time ſhall think convenient to be done, he cauſed this great Horſe to purge whole mountains of Dung, to ly between the next Seas and the new-drained land, as a ſtrong Baracado to keep the water out. And alſo by an Ambaſſador he gave me ſtrict charge that I ſhould take care to procure ſuch a box as I cauſed you to make, and get it fil'd with the ſame Dung; which being done he cauſed the great<g ref="char:EOLhyphen"/>eſt Devil in Hell to ſit brooding upon it, and to hatch creatures like Men, Women, and Children, to inhabite the drained land. And moreover I have Commiſſion from my dread Soveraign King <hi>Belzebub,</hi> to conſult with thoſe new ſervants of his about the name that theſe drained. Lands ſhall be known to the reſt of the world by: and becauſe I will not hide any thing from you that you may be deſirous to know in theſe matters, I ſhall acquaint you with my intent concerning it, which I hope will be no whit offenſive to his Majeſty, who hath commanded me that I be ſure to give it ſuch a name as may have the firſt ſylable of his own in it, for which cauſe I think it moſt proper to be called <hi>Bel-regia;</hi> for if we call <hi>Belzebub Bel</hi> for ſhortneſs, it will then ſignifie <hi>Belzebubs</hi> Kingdom: But if his Majeſties ſervants the Inhabitants ſhall think this too long a Name to be rea<g ref="char:EOLhyphen"/>dily ſpoken, I ſhall then condeſcend to call it <hi>Belgia,</hi> lea<g ref="char:EOLhyphen"/>ving out the middlemoſt ſylable in pronounciation, ſince it cannot but be underſtood by the ſenſe of the word.</p>
+            <p>More I have not to ſay in theſe matters, for I think I have ſufficiently anſwered your curious expectations.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>by me <hi>D. F.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Courteous Readers,</salute>
+            </opener>
+            <p>I need not paraphraſe much up<g ref="char:EOLhyphen"/>on this Relation, ſince ye all know that Creatures Helliſhly hatcht cannot but in a large meaſure par<g ref="char:EOLhyphen"/>ticipate of the qualities of the old Brooder: elſe why ſhould wee deſire to ſet our Game eggs under Kites, Crows, and ſuch like ravenous Fowls, but be<g ref="char:EOLhyphen"/>cauſe wee would have the young ones which they hatch more furious and violent then if they were hatcht by the old ones of their own kind. There<g ref="char:EOLhyphen"/>fore ſince it ſo, do not wonder that the Dutch have acted ſo Helliſhly like Devils as they have: Do not wonder at their Stratagems: Do not wonder at their cologueing diſſembling: Do not wonder at their wicked traiterous and unjuſt wringing of all Trade out of other mens hands: Nay, do not wonder at their barbarous and Inhumane cruelties, ſince from Hell they came, and thither without doubt they muſt return again.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDONS</hi> Printed in the Year 1653. And are to bee ſold at St. <hi>Michiels</hi> Church door in Corn hill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
